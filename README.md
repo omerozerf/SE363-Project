@@ -20,7 +20,7 @@ Animal Fight Simulator is a Java-based game where animals 🐶🐱 move randomly
 	1.	Clone the repository:
 
 git clone https://github.com/omerozerf/SE363-Project.git
-cd animal-fight-simulator
+cd SE363-Project
 
 
 	2.	Open the project in your preferred IDE.
